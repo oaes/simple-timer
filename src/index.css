@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.AppName{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  border: 3px solid antiquewhite;
+}
+.container{
+  width: 100%;
+  text-align: center;
+}
+.btn{
+  width: 100px;
+  margin: 10px 20px;
+  padding: 10px 20px;
+  color: #efefef;
+  border: 1px solid grey;
+  color: #222222;
+}
